@@ -1,0 +1,9 @@
+alias ^gg=g
+alias ^l-=aa
+alias ^ls-=aa
+alias ^lsd-=aa
+alias ^lol=ss
+alias ^dd=qqq
+alias ^go=land
+alias ^ls=ls -G
+alias ^l=ls

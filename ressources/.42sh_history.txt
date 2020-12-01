@@ -1,0 +1,549 @@
+ls
+clear
+ls -la
+exit
+ls
+clear
+exit
+ls
+ls -la
+exit
+make
+exit
+ls
+ls -la
+clear
+ls -ll
+exit
+ls -la
+lool
+exit
+exit
+clear
+alias
+alias p=pp
+alias
+clear
+exit
+exit
+exit
+exit
+exit
+alias dd=d
+alias
+alias p=888
+alias
+exit
+exit
+exit
+ls
+alias
+make
+exit
+alias
+exit
+exit
+ls
+exit
+exit
+ls
+alias
+alias g=g
+alias
+make
+exit
+exit
+exit
+exit
+exit
+exit
+alias gg=g
+exit
+alias l-=aa
+alias ls-=aa
+alias lsd-=aa
+alias
+exit
+exit
+exit
+exit
+exit
+exit
+alias lol=ss
+alias dd=qqq
+alias go=land
+exit
+ls
+exit
+ls
+alias
+exit
+alias
+alias kk=aa
+alias
+clear 
+ls
+clear 
+ls
+alias
+exit
+exit
+alias
+p
+exit
+alias ls='ls -G'
+ls
+ls
+ls -G
+ls
+exit
+a
+alias
+p
+exit
+ls
+exit
+ls
+exit
+ls
+exit
+ls
+exit
+test l
+$?
+echo $?
+exit
+exit
+exit
+exit
+exit
+ls
+${?}
+exit
+test lll
+${?}
+test -d lll
+${?}
+exit
+mkfifo pipe11
+test -p pipe11 
+${?}
+test -p Makefile 
+${?}
+test
+test
+test 
+exit
+test
+test     
+test     
+test
+exit
+test hfgjdsf fgjdhfgk
+test jghjfghjkdf -ne jhgkdfg
+exit
+exit
+ls
+hash
+exit
+ls
+hash
+ll
+exit
+ls
+hash
+exit
+ls
+hash
+ls
+exit
+ls
+hash
+hash -r
+hash
+ls
+hash
+hash -p /usr/bin/pwd l
+l
+hash
+hash -d ls
+hash
+l
+pwd
+hash
+l
+hash
+ll
+zz
+hash
+alias l=ls
+l
+ls
+hash
+l
+hash
+l
+hash
+hash -l
+hash -r
+l
+unalias l
+l
+exit
+clear
+pwd
+touch aa
+chmod -x aa 
+ls -l aa
+chmod -x 42sh 
+./42sh
+/home/mrxy/Desktop/42omar/42omar/42sh
+/bin/ls
+chmod -x /usr/bin/ls
+sudo su
+ls
+ls
+bash
+exit
+ls
+exit
+ls
+ll
+/usr/bin/ls
+exit
+ls
+/usr/bin/ls
+/usr/bin/pwd
+exit
+/usr/bin/ls
+exit
+/usr/bin/ls
+hash
+ls
+hash
+/usr/bin/kk
+exit
+/usr/bin/ls
+hash
+ls
+hash
+ls
+exit
+clear
+hash
+clear
+hash
+l
+hash -p /usr/bin/pwd l
+l
+hash
+l
+hash
+l
+hash -l
+alias l=ls
+l
+hash
+l
+hash
+/usr/bin/ls
+ls
+hash -r
+hash
+ls
+hash
+hash -l
+/fhdsjkhfksd
+exit
+/usr/bin/ls
+hash
+exit
+/usr/bin/ls
+hash
+/usr/bin/ll
+ls
+hash
+/usr
+pwd
+bash
+/usr
+exit
+/usr
+exit
+/usr
+/usr/bin/ls
+/fjkldsfjsd
+exit
+ls
+hash
+exit
+ls
+hash
+/usr/bin/pwd
+hash
+pwd
+hash
+pwd
+hash
+pwd
+hash
+fhjkds
+/usr
+/usr/bin/fdfd
+hash -l
+hash -d pwd
+hash
+exit
+ls
+hash
+ls
+exit
+ls
+pwd
+hash
+/usr/bin/ls
+hash
+exit
+hash
+ls
+hash
+$(hash -r)
+hash
+test hjkhjk
+echo $(1)
+bash
+test fdfd
+$1
+echo $1
+$?
+echo $?
+$(?)
+${?}
+test jfhdkjfd
+${?}
+test
+${?}
+exit
+exit
+ls
+pwd
+$(ls)
+$(pwd)
+bash
+hash
+ls
+hash
+$(pwd)
+hash
+ls
+hash
+$(hash -r)
+hash
+exit
+hash
+ls
+hash
+pwd
+clear
+ls
+pwd
+pwd
+pwd
+clear
+hash
+$(hash -r)
+exit
+hash
+ls
+hash
+$(pwd)
+hash
+exit
+clear
+hash
+ls
+$(hash -r)
+hash
+exit
+ls
+hash
+pwd
+hash
+$(clear)
+hash
+exit
+ls
+hash
+$(pwd)
+hash
+exit
+ls
+hash
+pwd
+exit
+ls
+hash
+pwd
+exit
+ú
+exit
+clear
+hash
+pwd
+ls
+$(cat -e aa | wc -c)
+hash
+exit
+ls
+hash
+pwd
+hash
+$(wc -c fhdkjfhkjds)
+hash
+exit
+test -m
+$?
+${?}
+test -m
+${?}
+bash
+test -y jdslfd
+${?}
+exit
+clear
+hash
+clear
+hash
+test -y fnjkdshfs
+${?}
+exit
+clear
+test -y fjdhfkjd
+test -y
+${?}
+test -y fjdkhfks
+${?}
+exit
+test -yfhd fjhdskf
+${?}
+test -z hj
+${?}
+exit
+test fhjkdfhkd = fhjkdsf fjhkd
+test fhjkdfhkd =
+${?}
+exit
+ls
+hash
+pwd
+hash
+kk
+kk
+ii
+oo
+kk
+aa
+aa
+exit
+kk
+exit
+kk
+qq
+lka
+kk
+k
+kkk
+kk
+kkkkkk
+aa
+aaa
+aaaa
+kk
+kk
+kkkkkkkkkkkkkkkkkkkkk
+hash
+ls
+hash
+ls
+hash
+kk
+exit
+ll
+kk
+k
+kkk
+kk
+bb
+ll
+qq
+aa
+kk
+exit
+kk
+echo kk
+kk
+exit
+alias
+unalias kk
+kk
+exit
+hash
+ls
+hash
+/usr/fdfd
+/usr
+/usr
+ll
+exit
+ll
+/usr
+exit
+/usr
+/usr/ll
+ls
+hash
+exit
+ls
+/urs
+/usr
+hash
+pwd
+hash -s
+hash -p /usr/bin/pwd p
+p
+unalias p
+p\
+p
+exit
+clear
+hash
+ls
+hash
+ls
+ls
+ls
+ls
+ls
+ll
+/usr
+/bin/ls
+pwd
+hash
+hash -d ls
+hash
+ls
+hash
+exit
+ls
+hash
+ls
+hash
+hash -r ls
+hash
+hash -r
+hash
+ls
+hash
+hash -s -d- d
+hash -r fdf fdfd
+exit
